@@ -7,3 +7,9 @@ Check Answer: The checkAns function determines which option is selected by the u
 Score Calculation: Correct answers increment the score.
 Dynamic Updates: Questions and options dynamically update after clicking "Next."
 Game Completion: The final score is displayed with an option to restart the quiz.
+
+
+
+
+
+![quz](https://github.com/user-attachments/assets/c0b0a543-f63d-42ae-a2c2-53af41080da1)
