@@ -13,3 +13,4 @@ Game Completion: The final score is displayed with an option to restart the quiz
 
 
 ![quz](https://github.com/user-attachments/assets/c0b0a543-f63d-42ae-a2c2-53af41080da1)
+![quz2](https://github.com/user-attachments/assets/84ccbd39-0d8d-4430-b9b2-b97feff4c819)
